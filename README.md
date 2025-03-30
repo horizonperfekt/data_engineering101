@@ -1,2 +1,2 @@
-# data_engineering101
+# Data Engineering 101
 The course Data Engineering 101 from StartDataEngineering
